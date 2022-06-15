@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&layout=compact)](https://github.com/droffilc1/github-readme-stats)
+<a href="https://github.com/droffilc1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droffilc1&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/droffilc1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droffilc1&repo=convoychat" />
+</a>
