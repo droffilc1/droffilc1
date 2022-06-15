@@ -1,19 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Clifford 👋
 
-<!--
-**droffilc1/droffilc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on open source projetcs
+- 💬 Ask me about anything
 
-Here are some ideas to get you started:
+# Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Cliffords's GitHub stats](https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1)](https://github.com/droffilc1/github-readme-stats)
+- ⚡ Frontend: Html/Css, Javascript, React 
+- 📫 Tools: Git
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&layout=compact"/>
+
+
+
 
