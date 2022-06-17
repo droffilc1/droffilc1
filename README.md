@@ -1,5 +1,7 @@
 # Hi there, I'm Clifford 👋
 
+<img align="center" src="https://profile-counter.glitch.me/{droffilc1}/count.svg"/>
+
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source projetcs
 - 💬 Ask me about anything
@@ -9,7 +11,7 @@
 - ⚡ Frontend: Html/Css, Javascript, React 
 - 📫 Tools: Git
 
-![Visitor Count](https://profile-counter.glitch.me/{droffilc1}/count.svg)
+
 
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical"/>
