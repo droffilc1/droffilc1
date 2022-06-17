@@ -9,6 +9,9 @@
 - ⚡ Frontend: Html/Css, Javascript, React 
 - 📫 Tools: Git
 
+![Visitor Count](https://profile-counter.glitch.me/{droffilc1}/count.svg)
+
+
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical"/>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&layout=compact"/>
 
