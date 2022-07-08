@@ -18,7 +18,8 @@ Visitor Count
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&theme=radical"/>
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=droffilc1&theme=dark"/>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&layout=compact"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&langs_count=8"/>
+
 
 
 
