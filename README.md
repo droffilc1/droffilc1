@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **javascript and react**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about anything tech related
 
 - 📫 How to reach me **cliffordmapesa8@gmail.com**
 
