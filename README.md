@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/droffilcasepam1" target="blank"><img src="https://img.shields.io/twitter/follow/droffilcasepam1?logo=twitter&style=for-the-badge" alt="droffilcasepam1" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **javascript and react**
+- 🤝 I’m looking for help with **MERN**
 
 - 💬 Ask me about anything tech related
 
