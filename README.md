@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **cliffordmapesa8@gmail.com**
 
+## Coding Challenges
+
+<a href="https://www.codewars.com/users/droffilc1" target="_blank"><img src="https://www.codewars.com/users/droffilc1/badges/large" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/droffilcasepam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="droffilcasepam1" height="30" width="40" /></a>
