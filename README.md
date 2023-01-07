@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/droffilcasepam1" target="blank"><img src="https://img.shields.io/twitter/follow/droffilcasepam1?logo=twitter&style=for-the-badge" alt="droffilcasepam1" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Cloud Development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
