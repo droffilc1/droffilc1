@@ -17,7 +17,13 @@
 
 ## Coding Challenges
 
-<a href="https://www.codewars.com/users/droffilc1" target="_blank"><img src="https://www.codewars.com/users/droffilc1/badges/large" /></a>
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=droffilc1&theme=gradient" />
+    </a>
+</p>
+
+
 
 <h1 align="center">Technologies</h1>
 
