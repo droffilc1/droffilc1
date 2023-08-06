@@ -68,10 +68,4 @@
 
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&locale=en&theme=radical" alt="droffilc1" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=droffilc1&show_icons=true&locale=en&layout=compact" alt="droffilc1" /></p>
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&layout=compact" alt="droffilc1" /></p>
