@@ -1,19 +1,10 @@
-<h1 align="center">Hi 👋, I'm Clifford Mapesa</h1>
-<h3 align="center">Software Engineer</h3>
+Hi, there!
+
+I'm Clifford Mapesa, I am a creative, detail-oriented software engineer with a deep interest in emerging technologies with a proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with a global reach.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droffilc1&label=Profile%20views&color=0e75b6&style=flat" alt="droffilc1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/droffilcasepam1" target="blank"><img src="https://img.shields.io/twitter/follow/droffilcasepam1?logo=twitter&style=for-the-badge" alt="droffilcasepam1" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud Development**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **MERN**
-
-- 💬 Ask me about anything tech related
-
-- 📫 How to reach me **cliffordmapesa8@gmail.com**
 
 ## Coding Challenges
 
