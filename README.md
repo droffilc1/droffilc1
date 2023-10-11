@@ -1,4 +1,4 @@
-Hi, there!
+<h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
 I'm Clifford Mapesa, I am a creative, detail-oriented software engineer with a deep interest in emerging technologies with a proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with a global reach.
 
