@@ -6,15 +6,6 @@ I'm Clifford Mapesa, I am a creative, detail-oriented software engineer with a d
 
 <p align="left"> <a href="https://twitter.com/droffilcasepam1" target="blank"><img src="https://img.shields.io/twitter/follow/droffilcasepam1?logo=twitter&style=for-the-badge" alt="droffilcasepam1" /></a> </p>
 
-## Coding Challenges
-
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=droffilc1&theme=gradient" />
-    </a>
-</p>
-
-
 
 <h1 align="center">Technologies</h1>
 
@@ -57,7 +48,6 @@ I'm Clifford Mapesa, I am a creative, detail-oriented software engineer with a d
   </a>  
 </p>
 
-<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&locale=en&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="droffilc1" /></p>
 
 <a href="https://github.com/droffilc1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
