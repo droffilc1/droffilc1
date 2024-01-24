@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: "00 12 * * 3"
-    # Every Wednesday at 12:00 👻
+    - cron: "40 16 * * 3"
+    # Every Wednesday at 19:40 👻
 
 jobs:
   update-readme:
