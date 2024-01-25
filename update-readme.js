@@ -97,10 +97,6 @@ async function fetchRecentArticles() {
     </a>
   </p>
 
-  <p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=droffilc1&show_icons=true&locale=en&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="droffilc1" /></p>
-
-  <a href="https://github.com/droffilc1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droffilc1&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
   ## Recent Articles
   ${recentArticles.map((article) => `- [${article.title}](${article.link})`).join('\n')}
