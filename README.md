@@ -38,6 +38,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
@@ -54,10 +55,10 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />    
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="25" /> 
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
   </div>
 
@@ -85,9 +86,9 @@
 
 
   ## Recent Articles
-  - [How variadic functions are used in C](https://cliffordmapesa.hashnode.dev/how-variadic-functions-are-used-in-c)
+  - [What is a singly linked list?](https://cliffordmapesa.hashnode.dev/what-is-a-singly-linked-list)
+- [How variadic functions are used in C](https://cliffordmapesa.hashnode.dev/how-variadic-functions-are-used-in-c)
 - [What is the difference between backref and back_populates in SQLAlchemy?](https://cliffordmapesa.hashnode.dev/what-is-the-difference-between-backref-and-backpopulates-in-sqlalchemy)
 - [How to use function pointers](https://cliffordmapesa.hashnode.dev/how-to-use-function-pointers)
 - [A look into structures and typedef](https://cliffordmapesa.hashnode.dev/a-look-into-structures-and-typedef)
-- [What is The C preprocessor?](https://cliffordmapesa.hashnode.dev/what-is-the-c-preprocessor)
   
