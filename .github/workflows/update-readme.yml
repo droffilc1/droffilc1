@@ -10,17 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Setup node
+
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '16'
-      - name: Install node dependencies
-        run: yarn
-      - name: Run script that gets latest blog posts
-        run: yarn feed
-      - name: Git setup
-        run: git config --global user.email cliffordmapesa8@gmail.com && git config --global user.name Clifford Mapesa
-      - name: Git commit README.md file
-        run: git commit -am "BOT Update readme" && git push
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Update Script
+        run: npm run update-readme

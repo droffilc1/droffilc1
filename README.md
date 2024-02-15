@@ -82,9 +82,9 @@
 
 
   ## Recent Articles
-  - [What is a singly linked list?](https://cliffordmapesa.hashnode.dev/what-is-a-singly-linked-list)
+  - [Bit manipulation in C](https://cliffordmapesa.hashnode.dev/bit-manipulation-in-c)
+- [What happens when you type google.com in your browser and press Enter?](https://cliffordmapesa.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)
+- [What is a singly linked list?](https://cliffordmapesa.hashnode.dev/what-is-a-singly-linked-list)
 - [How variadic functions are used in C](https://cliffordmapesa.hashnode.dev/how-variadic-functions-are-used-in-c)
 - [What is the difference between backref and back_populates in SQLAlchemy?](https://cliffordmapesa.hashnode.dev/what-is-the-difference-between-backref-and-backpopulates-in-sqlalchemy)
-- [How to use function pointers](https://cliffordmapesa.hashnode.dev/how-to-use-function-pointers)
-- [A look into structures and typedef](https://cliffordmapesa.hashnode.dev/a-look-into-structures-and-typedef)
   
