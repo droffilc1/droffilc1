@@ -82,9 +82,9 @@
 
 
   ## Recent Articles
-  - [Bit manipulation in C](https://cliffordmapesa.hashnode.dev/bit-manipulation-in-c)
+  - [Postmortem Report: Portfolio Website Outage - September 17, 2023](https://cliffordmapesa.hashnode.dev/postmortem-report-portfolio-website-outage-september-17-2023)
+- [An Introduction to File Handling in C: Basics and Beyond](https://cliffordmapesa.hashnode.dev/file-handling-in-c)
+- [Bit manipulation in C](https://cliffordmapesa.hashnode.dev/bit-manipulation-in-c)
 - [What happens when you type google.com in your browser and press Enter?](https://cliffordmapesa.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)
 - [What is a singly linked list?](https://cliffordmapesa.hashnode.dev/what-is-a-singly-linked-list)
-- [How variadic functions are used in C](https://cliffordmapesa.hashnode.dev/how-variadic-functions-are-used-in-c)
-- [What is the difference between backref and back_populates in SQLAlchemy?](https://cliffordmapesa.hashnode.dev/what-is-the-difference-between-backref-and-backpopulates-in-sqlalchemy)
   
