@@ -83,9 +83,9 @@
 
   ## Recent Articles
   <!-- BLOG-POST-LIST:START -->
+- [Introduction to Doubly Linked Lists](https://cliffordmapesa.hashnode.dev/introduction-to-doubly-linked-lists)
 - [Automating User and Group Management with Bash Script](https://cliffordmapesa.hashnode.dev/automating-user-and-group-management-with-bash-script)
 - [Debugging the use of backref and back_populates in SQLAlchemy](https://cliffordmapesa.hashnode.dev/debugging-the-use-of-backref-and-backpopulates-in-sqlalchemy)
 - [Python - Data Structures: Lists, Tuples, Sets, and Dictionary](https://cliffordmapesa.hashnode.dev/python-data-structures-lists-tuples-sets-and-dictionary)
 - [How spendless came to life](https://cliffordmapesa.hashnode.dev/how-spendless-came-to-life)
-- [Postmortem Report: Portfolio Website Outage - September 17, 2023](https://cliffordmapesa.hashnode.dev/postmortem-report-portfolio-website-outage-september-17-2023)
 <!-- BLOG-POST-LIST:END -->  
