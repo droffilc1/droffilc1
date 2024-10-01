@@ -65,6 +65,10 @@
   </td></tr></table>
 
   <br/>
+  
+ ![Clifford's wakatime stats](https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api/wakatime?username=Cliff&theme=gotham&layout=compact) 
+
+   <br/>
 
   <h1 align="center">Connect</h1>
 
