@@ -66,7 +66,7 @@
 
   <br/>
   
- ![Clifford's wakatime stats](https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api/wakatime?username=Cliff&theme=gotham&layout=compact) 
+ ![Clifford's wakatime stats](https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api/wakatime?username=cliff&theme=gotham&layout=compact) 
 
    <br/>
 
