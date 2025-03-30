@@ -2,7 +2,7 @@
 
   <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
-  I'm Clifford Mapesa, I am a creative, detail-oriented software engineer with a deep interest in emerging technologies with a proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with a global reach. I'm passionate about building great experiences using software.
+  I am Clifford Mapesa, a creative and detail-oriented software engineer with a deep interest in emerging technologies. With a proven track record of developing and implementing successful software solutions across the stack, I thrive in building scalable, high-performance applications. Passionate about crafting great user experiences and solving complex problems, I am eager to contribute my skills to a tech company with a global impact.
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=droffilc1&label=Profile%20views&color=0e75b6&style=flat" alt="droffilc1" /> </p>
 
